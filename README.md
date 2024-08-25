@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my work, skills, and projects as a data scientist and full-stack machine learning engineer. Explore my professional journey, get a glimpse of my achievements, and feel free to connect with me.
 
-![Capture](https://github.com/user-attachments/assets/b5efe3b1-2022-4308-b93a-a109214cf3b9)
+![Capture](https://github.com/user-attachments/assets/d44465b4-1c6f-44f0-9a05-62ae527110f9)
 
 ## Live Demo
 
